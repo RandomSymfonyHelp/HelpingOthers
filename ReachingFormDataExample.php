@@ -42,3 +42,10 @@
             'form' => $form->createView(),
         ]);
     }
+
+
+/*
+{% if status == 404 %}
+<script> alert('Dit toernooi is gesloten. Aanmedlingen kunnen niet meer gedaan worden') </script>
+{% endif %}
+*/
